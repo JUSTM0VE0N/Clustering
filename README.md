@@ -16,7 +16,7 @@ print(sklearn.__version__)
 3. BIRCH 聚类 -- BIRCH.py
 4. DBSCAN 聚类 -- DBSCAN.py
 5. K-均值聚类 -- K-mean.py
-6. Mini-Batch K-均值聚类 -- MiniBatchKMeans.py
+6. Mini-Batch K-均值聚类 -- Mini-Batch K-Means.py
 7. 均值漂移聚类 -- MeanShift.py
 8. OPTICS 聚类 -- OPTICS.py
 9. 光谱聚类 -- Spectral.py
